@@ -7,6 +7,7 @@ import Hello from './Hello.jsx'
 import Bye from './Bye.jsx'
 import Arrays from './Arrays.jsx'
 import Object from './Object.jsx'
+import ArrofObj from './ArrofObj.jsx'
 function App() {
   return (
     <>
@@ -16,6 +17,7 @@ function App() {
      <Bye />
      <Arrays />
      <Object />
+      <ArrofObj />
     
     </>
   )
