@@ -12,6 +12,7 @@ function App() {
      <h4>Welcome to the App Component</h4>
      <img src={reactLogo} alt="React Logo" width="200px" />
      <Bye />
+     <Arrays />
     
     </>
   )
