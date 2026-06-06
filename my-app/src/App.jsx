@@ -5,6 +5,8 @@
 // import './App.css'
 import Hello from './Hello.jsx'
 import Bye from './Bye.jsx'
+import Arrays from './Arrays.jsx'
+import Object from './Object.jsx'
 function App() {
   return (
     <>
@@ -13,6 +15,7 @@ function App() {
      <img src={reactLogo} alt="React Logo" width="200px" />
      <Bye />
      <Arrays />
+     <Object />
     
     </>
   )
